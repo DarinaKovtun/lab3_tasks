@@ -1,0 +1,58 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 400px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  
+  td {
+    border: 1px solid black;
+  }
+  
+  .first {
+    background-color: #0000ff;
+    height: 50px;
+    text-align: right;
+  }
+  
+  .inner-table {
+    height: 10px;
+    width: 400px;
+    border: 2px;
+  }
+  
+  .innrefist {
+    border-color: #0000ff;
+    background-color: #0000ff;
+    height: 50px;
+    padding-right: 10px;
+    width: 100px;
+  }
+
+  .cont234 {
+    display: flex;
+  }
+  
+  .fifthSecond{
+    background-color: #fff200;
+    width: 133px;
+    height: 245px;
+  }
+  
+  .firstThird {
+    background-color: #0000ff;
+    height: 50px;
+  }
+
+  .fourth {
+    background-color: #ffffff;
+    width: 133px;
+    height: 245px;
+  }
+  
