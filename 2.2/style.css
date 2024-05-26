@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    border: 1px solid black;
+  }
+  
+  td {
+    border: 1px solid black;
+  }
+
+  .cont234 {
+    display: flex;
+  }
+  
+  .fifthSecond{
+    background-color: #fff200;
+    width: 100%;
+    height: 85vh;
+  }
+  
+  .firstThird {
+    background-color: #0000ff;
+    height: 50px;
+    height: 10vh;
+  }
+
+  .fourth {
+    background-color: #ffffff;
+    width: 100%;
+    height: 85vh;
+  }
+  

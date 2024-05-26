@@ -1,0 +1,94 @@
+
+body {
+    padding: 0;
+    margin: 0;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 400px;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+td {
+  border: 1px solid black;
+}
+  
+  .first {
+    background-color: #fff200;
+    height: 50px;
+    text-align: right;
+  }
+  
+  .inner-table {
+    height: 10px;
+    width: 400px;
+    border: 2px;
+  }
+  
+  .inrercontainer {
+    background-color: white;
+    height: 10px;
+    width: 100px;
+  }
+  
+  .innrefist {
+    border-color: #fff200;
+    background-color: #fff200;
+    height: 50px;
+    padding-right: 10px;
+    width: 100px;
+  }  
+  
+  .cont234 {
+    display: flex;
+  }
+  
+  .second {
+    background-color: #0000ff;
+    width: 100px;
+    height: 245px;
+    margin-right: 10px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .third { 
+    background-color: #ffffff;
+    width: 133px;
+    height: 170px;
+    margin: 68px;
+    margin-bottom: 5px;
+    margin-left: -351px;
+    border: 1px solid black;
+  }
+  
+  
+  .fourth {
+    background-color: #0000ff;
+    width: 133px;
+    height: 170px;
+    margin-right: 20px;
+    margin-top: 68px;
+    margin-bottom: 5px;
+    margin-left: -47px;
+    border: 1px solid black;
+  }
+  
+  .fifth {
+    background-color: #fff200;
+    height: 50px;
+    width: 435px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  .redbox {
+    background-color: red;
+    height: 10px;
+    width: 320px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
